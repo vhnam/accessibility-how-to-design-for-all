@@ -150,3 +150,14 @@ title: "Accessibility: Why It Matters"
 - Examples:
   - Airlines and retailers publicly contrasted based on accessibility quality.
   - Inclusive design used as a marketing and trust signal.
+
+## References
+
+- W3C, [Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/)
+- W3C, [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
+- U.S. Department of Justice Civil Rights Division, [The Americans with Disabilities Act](https://www.ada.gov/)
+- U.S. Federal Communications Commission, [21st Century Communications and Video Accessibility Act](https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa)
+- U.S. General Services Administration, [Section 508](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/)
+- European Commission, [The European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en)
+- United Nations, [The UN Rights of Persons with Disabilities](https://social.desa.un.org/issues/disability/crpd/convention-on-the-rights-of-persons-with-disabilities-crpd).
+- European Union of the Deaf, [Accessibility as a Human Right](https://eud.eu/accessibility-as-a-human-right/)

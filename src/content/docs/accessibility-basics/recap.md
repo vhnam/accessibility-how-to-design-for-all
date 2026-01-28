@@ -3,7 +3,7 @@ title: "Lession 1 Recap"
 ---
 
 - Accessibility is a legal, moral and business imperative.
-- Accessibility is governed by Section 508 in the US, the European Accessibility Act and the UN Rights of Persons with Disabilities.
+- Accessibility is governed by [Section 508](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/) in the US, the [European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en) and the [UN Rights of Persons with Disabilities](https://social.desa.un.org/issues/disability/crpd/convention-on-the-rights-of-persons-with-disabilities-crpd).
 - You can determine the state of your accessibility with blind users.
 - There are 4 primary types of disabilities:
   - Blindness including Low Vision and Color Blindness;
