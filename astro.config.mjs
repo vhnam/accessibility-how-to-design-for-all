@@ -34,7 +34,12 @@ export default defineConfig({
             {
               label: "Interview the Impact of Poor Accessibility",
               slug: "accessibility-basics/interview-the-impact-of-poor-accessibility",
-            }
+            },
+            {
+              label:
+                "Experiencing Accessibility Issues with Each Disability Type",
+              slug: "accessibility-basics/experiencing-accessibility-issues-with-each-disability-type",
+            },
           ],
         },
       ],
