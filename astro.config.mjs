@@ -40,6 +40,10 @@ export default defineConfig({
                 "Experiencing Accessibility Issues with Each Disability Type",
               slug: "accessibility-basics/experiencing-accessibility-issues-with-each-disability-type",
             },
+            {
+              label: "What Poor and Good Accessibility Looks Like",
+              slug: "accessibility-basics/what-poor-and-good-accessibility-looks-like",
+            },
           ],
         },
       ],
