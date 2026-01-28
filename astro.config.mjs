@@ -44,6 +44,10 @@ export default defineConfig({
               label: "What Poor and Good Accessibility Looks Like",
               slug: "accessibility-basics/what-poor-and-good-accessibility-looks-like",
             },
+            {
+              label: "Lession 1 Recap",
+              slug: "accessibility-basics/recap",
+            },
           ],
         },
       ],
