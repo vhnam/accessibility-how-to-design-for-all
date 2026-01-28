@@ -31,6 +31,10 @@ export default defineConfig({
               label: "How Accessibility Impacts Usability and SEO",
               slug: "accessibility-basics/how-accessibility-impacts-usability-and-seo",
             },
+            {
+              label: "Interview the Impact of Poor Accessibility",
+              slug: "accessibility-basics/interview-the-impact-of-poor-accessibility",
+            }
           ],
         },
       ],
