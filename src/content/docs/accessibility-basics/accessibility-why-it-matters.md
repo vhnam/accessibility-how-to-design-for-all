@@ -1,6 +1,5 @@
 ---
 title: "Accessibility: Why It Matters"
-description: A guide in my new Starlight docs site.
 ---
 
 ## Practical Accessibility: From Tools to Meaningful Inclusion
