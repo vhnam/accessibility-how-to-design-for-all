@@ -27,6 +27,10 @@ export default defineConfig({
                 "Ten Principles of Accessibility for Web and Mobile Design",
               slug: "accessibility-basics/ten-principles-of-accessibility-for-web-and-mobile-design",
             },
+            {
+              label: "How Accessibility Impacts Usability and SEO",
+              slug: "accessibility-basics/how-accessibility-impacts-usability-and-seo",
+            },
           ],
         },
       ],
