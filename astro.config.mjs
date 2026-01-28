@@ -19,8 +19,13 @@ export default defineConfig({
           label: "1. Accessibility Basics",
           items: [
             {
-              label: "1.1.Accessibility: Why It Matters",
+              label: "Accessibility: Why It Matters",
               slug: "accessibility-basics/accessibility-why-it-matters",
+            },
+            {
+              label:
+                "Ten Principles of Accessibility for Web and Mobile Design",
+              slug: "accessibility-basics/ten-principles-of-accessibility-for-web-and-mobile-design",
             },
           ],
         },
