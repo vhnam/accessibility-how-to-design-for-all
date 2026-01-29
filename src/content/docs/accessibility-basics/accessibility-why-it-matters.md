@@ -46,11 +46,11 @@ title: "Accessibility: Why It Matters"
 
 - Americans with Disabilities Act (ADA):
   - Section 508: Governs accessibility of digital content.
-  - Section 508 Refresh (2018): Strengthened requirements and emphasized quality and excellence.
+  - [Section 508 Refresh (2018)](https://www.section508.gov/blog/accessibility-news-the-section-508-Update/): Strengthened requirements and emphasized quality and excellence.
 
 - Lawsuits:
   - 250+ lawsuits (2015–2017).
-  - High-profile cases: AOL, Target, Charles Schwab, Netflix.
+  - High-profile cases: [AOL](https://nfb.org/sites/nfb.org/files/images/nfb/publications/bm/bm03/bm0305/bm030509.htm), [Target](https://adasoutheast.org/legal/court/national-federation-of-the-blind-v-target-corporation-2/), [Charles Schwab](https://www.lflegal.com/2024/11/schwab-2024-agreement/), [Netflix](https://www.nad.org/2011/06/16/nad-files-disability-civil-rights-lawsuit-against-netflix/).
 
 - Motivation: Many companies act primarily due to legal risk and litigation.
 
@@ -153,11 +153,19 @@ title: "Accessibility: Why It Matters"
 
 ## References
 
+- Southeast ADA Center, [National Federation of the Blind v. Target Corporation](https://adasoutheast.org/legal/court/national-federation-of-the-blind-v-target-corporation-2/)
+- National Association of the Deaf, [NAD Files Disability Civil Rights Lawsuit against Netflix](https://www.nad.org/2011/06/16/nad-files-disability-civil-rights-lawsuit-against-netflix/)
+- Law Office of Lainey Feingold, [Charles Schwab 2024 Web and Mobile Accessibility Settlement Agreement](https://www.lflegal.com/2024/11/schwab-2024-agreement/)
+- Law Office of Lainey Feingold, [Web and Mobile Accessibility Settlements](https://www.lflegal.com/category/settlements/web-accessibility-settlements/)
+- National Federation of the Blind, [America Online: Is It Accessible Now?](https://nfb.org/sites/nfb.org/files/images/nfb/publications/bm/bm03/bm0305/bm030509.htm)
+- Justia, [Gil v. Winn-Dixie Stores, Inc., No. 17-13467 (11th Cir. 2021)](https://law.justia.com/cases/federal/appellate-courts/ca11/17-13467/17-13467-2021-04-07.html)
+- Law Office of Lainey Feingold [Another Big Win in the Domino’s Pizza Accessibility Saga](https://www.lflegal.com/2021/06/dominos-june-2021/)
 - W3C, [Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/)
 - W3C, [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
 - U.S. Department of Justice Civil Rights Division, [The Americans with Disabilities Act](https://www.ada.gov/)
 - U.S. Federal Communications Commission, [21st Century Communications and Video Accessibility Act](https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa)
 - U.S. General Services Administration, [Section 508](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/)
+- U.S. General Services Administration, [Accessibility News: The Section 508 Update](https://www.section508.gov/blog/accessibility-news-the-section-508-Update/)
 - European Commission, [The European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en)
 - United Nations, [The UN Rights of Persons with Disabilities](https://social.desa.un.org/issues/disability/crpd/convention-on-the-rights-of-persons-with-disabilities-crpd).
 - European Union of the Deaf, [Accessibility as a Human Right](https://eud.eu/accessibility-as-a-human-right/)
