@@ -50,6 +50,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "2. Steps to Gaining Compliance",
+          items: [
+            {
+              label: "Using Automated Tools: Pros and Cons",
+              slug: "steps-to-gaining-compliance/using-automated-tools-pros-and-cons",
+            },
+          ],
+        },
       ],
     }),
   ],
