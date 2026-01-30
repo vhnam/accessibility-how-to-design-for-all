@@ -69,6 +69,14 @@ export default defineConfig({
               label: "Identifying Your Compliance Requirements: A, AA, AAA",
               slug: "steps-to-gaining-compliance/identifying-your-compliance-requirements-a-aa-aaa",
             },
+            {
+              label: "How to Use WCAG 2.0 Guidelines: Theory vs Practice",
+              slug: "steps-to-gaining-compliance/how-to-use-wcag-2-0-guidelines-theory-vs-practice",
+            },
+            {
+              label: "Lession 2 Recap",
+              slug: "steps-to-gaining-compliance/recap",
+            },
           ],
         },
       ],
