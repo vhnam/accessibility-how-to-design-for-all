@@ -65,6 +65,10 @@ export default defineConfig({
               label: "Getting Compliant: Section 508 Issues and Lessons",
               slug: "steps-to-gaining-compliance/getting-compliant-section-508-issues-and-lessons",
             },
+            {
+              label: "Identifying Your Compliance Requirements: A, AA, AAA",
+              slug: "steps-to-gaining-compliance/identifying-your-compliance-requirements-a-aa-aaa",
+            },
           ],
         },
       ],
