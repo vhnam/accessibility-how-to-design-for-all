@@ -61,6 +61,10 @@ export default defineConfig({
               label: "Following the Guidelines: Pros and Cons",
               slug: "steps-to-gaining-compliance/following-the-guidelines-pros-and-cons",
             },
+            {
+              label: "Getting Compliant: Section 508 Issues and Lessons",
+              slug: "steps-to-gaining-compliance/getting-compliant-section-508-issues-and-lessons",
+            },
           ],
         },
       ],
