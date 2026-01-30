@@ -57,6 +57,10 @@ export default defineConfig({
               label: "Using Automated Tools: Pros and Cons",
               slug: "steps-to-gaining-compliance/using-automated-tools-pros-and-cons",
             },
+            {
+              label: "Following the Guidelines: Pros and Cons",
+              slug: "steps-to-gaining-compliance/following-the-guidelines-pros-and-cons",
+            },
           ],
         },
       ],
