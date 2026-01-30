@@ -181,3 +181,4 @@ title: "Getting Compliant: Section 508 Issues and Lessons"
 ## References
 
 - U.S. Access Board, [Guidance on the Telecommunications Act Section 255 Guidelines](https://www.access-board.gov/ict/guide/2555_guide.md.html)
+- CanAdapt, [What's new in WCAG 2.1, the web Accessibility Standard](https://www.davidmacd.com/blog/wcag-2.1-quick-guide.html)
