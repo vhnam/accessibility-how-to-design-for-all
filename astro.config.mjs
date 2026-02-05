@@ -79,6 +79,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "3. Optimizing Your Code",
+          items: [
+            {
+              label: "Code Optimization Basics and Opportunities",
+              slug: "optimizing-your-code/code-optimization-basics-and-opportunities",
+            },
+          ],
+        },
       ],
     }),
   ],
