@@ -86,6 +86,10 @@ export default defineConfig({
               label: "Code Optimization Basics and Opportunities",
               slug: "optimizing-your-code/code-optimization-basics-and-opportunities",
             },
+            {
+              label: "Images: All about Alt + Contrast",
+              slug: "optimizing-your-code/images-all-about-alt-and-contrast",
+            },
           ],
         },
       ],
