@@ -90,6 +90,10 @@ export default defineConfig({
               label: "Images: All about Alt + Contrast",
               slug: "optimizing-your-code/images-all-about-alt-and-contrast",
             },
+            {
+              label: "Keyboard",
+              slug: "optimizing-your-code/keyboard",
+            }
           ],
         },
       ],
