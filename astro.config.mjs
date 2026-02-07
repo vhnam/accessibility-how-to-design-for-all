@@ -118,6 +118,10 @@ export default defineConfig({
               label: "ARIA Markup",
               slug: "optimizing-your-code/aria-markup",
             },
+            {
+              label: "JavaScript",
+              slug: "optimizing-your-code/javascript",
+            },
           ],
         },
       ],
