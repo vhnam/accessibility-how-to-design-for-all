@@ -93,7 +93,11 @@ export default defineConfig({
             {
               label: "Keyboard",
               slug: "optimizing-your-code/keyboard",
-            }
+            },
+            {
+              label: "Focus Control + Layout Considerations For UX Designers",
+              slug: "optimizing-your-code/focus-control-layout-considerations-for-ux-designers",
+            },
           ],
         },
       ],
