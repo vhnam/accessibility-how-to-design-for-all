@@ -127,6 +127,10 @@ export default defineConfig({
                 "Dynamic Content: Infographics, Animations, Audio Descriptions, Video, Live Events",
               slug: "optimizing-your-code/dynamic-content-infographics-animations-audio-descriptions-video-live-events",
             },
+            {
+              label: "Designing Accessible Navigation",
+              slug: "optimizing-your-code/designing-accessible-navigation",
+            },
           ],
         },
       ],
