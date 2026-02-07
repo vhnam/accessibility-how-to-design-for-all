@@ -102,6 +102,10 @@ export default defineConfig({
               label: "Forms, Tables and Search",
               slug: "optimizing-your-code/forms-tables-and-search",
             },
+            {
+              label: "3rd Party Content",
+              slug: "optimizing-your-code/3rd-party-content",
+            },
           ],
         },
       ],
