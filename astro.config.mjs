@@ -122,6 +122,11 @@ export default defineConfig({
               label: "JavaScript",
               slug: "optimizing-your-code/javascript",
             },
+            {
+              label:
+                "Dynamic Content: Infographics, Animations, Audio Descriptions, Video, Live Events",
+              slug: "optimizing-your-code/dynamic-content-infographics-animations-audio-descriptions-video-live-events",
+            },
           ],
         },
       ],
