@@ -110,6 +110,10 @@ export default defineConfig({
               label: "Pop-ups + Iframes",
               slug: "optimizing-your-code/pop-ups-iframes",
             },
+            {
+              label: "HTML5, CSS + ARIA",
+              slug: "optimizing-your-code/html5-css-aria",
+            },
           ],
         },
       ],
