@@ -106,6 +106,10 @@ export default defineConfig({
               label: "3rd Party Content",
               slug: "optimizing-your-code/3rd-party-content",
             },
+            {
+              label: "Pop-ups + Iframes",
+              slug: "optimizing-your-code/pop-ups-iframes",
+            },
           ],
         },
       ],
