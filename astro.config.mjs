@@ -131,6 +131,10 @@ export default defineConfig({
               label: "Designing Accessible Navigation",
               slug: "optimizing-your-code/designing-accessible-navigation",
             },
+            {
+              label: "Lession 3 Recap",
+              slug: "optimizing-your-code/recap",
+            },
           ],
         },
       ],
