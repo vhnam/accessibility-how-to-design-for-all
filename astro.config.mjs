@@ -114,6 +114,10 @@ export default defineConfig({
               label: "HTML5, CSS + ARIA",
               slug: "optimizing-your-code/html5-css-aria",
             },
+            {
+              label: "ARIA Markup",
+              slug: "optimizing-your-code/aria-markup",
+            },
           ],
         },
       ],
