@@ -137,6 +137,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "4. Meeting Accessibility Design Challenges",
+          items: [
+            {
+              label: "Toward Accessible Interaction Design",
+              slug: "meeting-accessibility-design-challenges/toward-accessible-interaction-design",
+            },
+          ],
+        },
       ],
     }),
   ],
