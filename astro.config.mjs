@@ -144,6 +144,10 @@ export default defineConfig({
               label: "Toward Accessible Interaction Design",
               slug: "meeting-accessibility-design-challenges/toward-accessible-interaction-design",
             },
+            {
+              label: "Interview: Visual Bias e.g. Maps",
+              slug: "meeting-accessibility-design-challenges/interview-visual-bias-e-g-maps",
+            },
           ],
         },
       ],
