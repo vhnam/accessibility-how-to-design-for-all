@@ -148,6 +148,10 @@ export default defineConfig({
               label: "Interview: Visual Bias e.g. Maps",
               slug: "meeting-accessibility-design-challenges/interview-visual-bias-e-g-maps",
             },
+            {
+              label: "Web Site and Web Application Issues and Tips",
+              slug: "meeting-accessibility-design-challenges/web-site-and-web-application-issues-and-tips",
+            },
           ],
         },
       ],
