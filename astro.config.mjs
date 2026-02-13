@@ -164,6 +164,10 @@ export default defineConfig({
               label: "VR/AR Accessibility Issues and Tips",
               slug: "meeting-accessibility-design-challenges/vr-ar-accessibility-issues-and-tips",
             },
+            {
+              label: "Plain English and Copywriting Tips for Inclusive Design",
+              slug: "meeting-accessibility-design-challenges/plain-english-and-copywriting-tips-for-inclusive-design",
+            },
           ],
         },
       ],
