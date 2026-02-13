@@ -156,6 +156,10 @@ export default defineConfig({
               label: "Interview: Social Media Accessibility Experiences",
               slug: "meeting-accessibility-design-challenges/interview-social-media-accessibility-experiences",
             },
+            {
+              label: "Mobile Accessibility Issues and Tips",
+              slug: "meeting-accessibility-design-challenges/mobile-accessibility-issues-and-tips",
+            },
           ],
         },
       ],
