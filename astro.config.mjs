@@ -152,6 +152,10 @@ export default defineConfig({
               label: "Web Site and Web Application Issues and Tips",
               slug: "meeting-accessibility-design-challenges/web-site-and-web-application-issues-and-tips",
             },
+            {
+              label: "Interview: Social Media Accessibility Experiences",
+              slug: "meeting-accessibility-design-challenges/interview-social-media-accessibility-experiences",
+            },
           ],
         },
       ],
