@@ -160,6 +160,10 @@ export default defineConfig({
               label: "Mobile Accessibility Issues and Tips",
               slug: "meeting-accessibility-design-challenges/mobile-accessibility-issues-and-tips",
             },
+            {
+              label: "VR/AR Accessibility Issues and Tips",
+              slug: "meeting-accessibility-design-challenges/vr-ar-accessibility-issues-and-tips",
+            },
           ],
         },
       ],
