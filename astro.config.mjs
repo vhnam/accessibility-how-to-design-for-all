@@ -176,6 +176,10 @@ export default defineConfig({
               label: "Elderly and Senior Users",
               slug: "meeting-accessibility-design-challenges/elderly-and-senior-users",
             },
+            {
+              label: "Lession 4 Recap",
+              slug: "meeting-accessibility-design-challenges/recap",
+            },
           ],
         },
       ],
