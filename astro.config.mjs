@@ -172,6 +172,10 @@ export default defineConfig({
               label: "PDF Accessibility and Document Accessibility Experiences",
               slug: "meeting-accessibility-design-challenges/pdf-accessibility-and-document-accessibility-experiences",
             },
+            {
+              label: "Elderly and Senior Users",
+              slug: "meeting-accessibility-design-challenges/elderly-and-senior-users",
+            },
           ],
         },
       ],
