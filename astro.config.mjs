@@ -168,6 +168,10 @@ export default defineConfig({
               label: "Plain English and Copywriting Tips for Inclusive Design",
               slug: "meeting-accessibility-design-challenges/plain-english-and-copywriting-tips-for-inclusive-design",
             },
+            {
+              label: "PDF Accessibility and Document Accessibility Experiences",
+              slug: "meeting-accessibility-design-challenges/pdf-accessibility-and-document-accessibility-experiences",
+            },
           ],
         },
       ],
